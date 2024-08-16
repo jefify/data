@@ -1,0 +1,1 @@
+cerimonias-cal-lunar.sh 2024 2026 ics > ceremonies.ics
